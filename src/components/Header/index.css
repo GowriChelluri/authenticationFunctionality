@@ -1,0 +1,7 @@
+.header-container {
+  list-style-type: none;
+  display: flex;
+}
+li {
+  margin-right: 20px;
+}
